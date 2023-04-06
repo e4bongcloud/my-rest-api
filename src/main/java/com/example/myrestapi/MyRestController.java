@@ -1,2 +1,4 @@
-package com.example.myrestapi;public class MyRestController {
+package com.example.myrestapi;
+
+public class MyRestController {
 }
